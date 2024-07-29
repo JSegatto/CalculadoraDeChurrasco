@@ -1,0 +1,9 @@
+﻿Referências:
+Sergey Kotenev, Unplash. Um pedaço de carne sentado em cima de uma tábua de corte ao lado de uma faca.
+https://unsplash.com/pt-br/fotografias/um-pedaco-de-carne-sentado-em-cima-de-uma-tabua-de-corte-ao-lado-de-uma-faca-1TfZ3YG9x5s
+Lucas Freitas, Churrascômetro
+https://github.com/FreitasLucas01/Churrascometro
+Alexandre Saints, Landing Page
+https://github.com/alexandresaints/landing-page-tutorial
+Adriana Saty, Easy Potfólio
+https://github.com/AdrianaSaty/easy-portfolio
